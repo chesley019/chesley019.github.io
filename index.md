@@ -15,8 +15,6 @@ layout: page
 <br>I am always open to academic discussions and potential collaborations. Please feel free to reach out to me at **qi_chen@ntu.edu.sg**.
 
 
-
-
 <!-- first-year PhD student in the [Internet of Everything Group](https://oba.eco/people/) at the University of Cambridge, where I am fortunate to be supervised by [Ozgur B. Akan](https://oba.eco/), and advised by [Jon Crowcroft](https://www.cst.cam.ac.uk/people/jac22) and [Kai Li](https://sites.google.com/site/lukasunsw/Home).
 
 <br>My research is supported by the Cambridge Trust Scholarship and China Scholarship Council. Previously, I was very pleased to undertake summer research with [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) in the [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/).
