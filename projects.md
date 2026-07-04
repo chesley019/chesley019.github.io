@@ -1,10 +1,16 @@
 ---
 layout: page
-permalink: /services/index.html
-title: Services
+permalink: /projects/index.html
+title: Projects
 
 ---
 
+## Collective Motion of Bacteria
+
+
+
+
+<!-- 
 > **Open to paper review for all top-level journals and conferences!**
 >
 > I am always open to reviewing manuscripts in areas related to LLMs, 5G/6G communications, networking, security, machine learning and the broader field of artificial intelligence. If you have any relevant review requests, please feel free to invite me at - hc663[at]cam.ac.uk
@@ -57,4 +63,4 @@ title: Services
 
 <div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
+Calendly inline widget end -->
