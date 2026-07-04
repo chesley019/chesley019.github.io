@@ -22,7 +22,6 @@ title: Publications
 
 **2023**<br>
 
-
 <img src="/images/SoftMatter.jpeg" align="left" width="120" hspace="50">
 
 - [Robust fabrication of ultra-soft tunable PDMS microcapsules as a biomimetic model for red blood cells](https://doi.org/10.1039/D3SM00208J)  
@@ -35,6 +34,9 @@ Eleanor Doman, Qi Zhou, **Qi Chen**, Naval Singh, Anne Juel, Miguel O. Bernabeu,
 *Placenta* 140 (2023): E63-E64.<br>
 
 **2022**<br>
+
+<img src="/images/InterfaceFocus.jpg" align="left" width="120" hspace="50">
+
 - [Red blood cell dynamics in extravascular biological tissues modelled as canonical disordered porous media](https://doi.org/10.1098/rsfs.2022.0037)<br>
 Qi Zhou, Kerstin Schirrmann, Eleanor Doman, **Qi Chen**, Naval Singh, P. Ravi Selvaganapathy, Miguel O. Bernabeu et al. <br>
 *Interface Focus* 12, no. 6 (2022): 20220037.<br>
