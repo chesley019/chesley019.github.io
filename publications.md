@@ -6,13 +6,13 @@ title: Publications
 
 > (†: equal contribution, ~~: corresponding author)
 
-## Collaborators
+<!-- ## Collaborators
 
 *The individuals listed below have profoundly shaped my research and personal development. Their invaluable contributions and guidance have greatly enriched all the work presented here.*
 
 - **Edge Intelligence:** [Falko Dressler (TU Berlin)](https://www.tkn.tu-berlin.de/team/dressler/), [Kai Li (CMU)](https://sites.google.com/site/lukasunsw/), [Yichen Li (HUST)](https://yichenli-hust.github.io/), [Zheng Lin (HKU)](https://xianhaochen.net/people)
 - **Wireless Communications:** [Ozgur B. Akan](https://oba.eco/), [Haofan Dong](https://scholar.google.com/citations?user=tuhdAK0AAAAJ&hl=zh-CN), [Houtianfu Wang (Cambridge)](https://ioe.eng.cam.ac.uk/staff/houtianfu-wang)
-- **Mobile Networks:** [Jon Crowcroft](https://www.cl.cam.ac.uk/~jac22/), [Junfei Zhan (UPenn)](https://junfei-z.github.io/), [Zhezhuang Xu (FZU)](https://scholar.google.com/citations?hl=zh-CN&user=iZ7LQRkAAAAJ&view_op=list_works&sortby=pubdate), [Meng Yuan (VUW)](https://myuan27.github.io/)<br><br>
+- **Mobile Networks:** [Jon Crowcroft](https://www.cl.cam.ac.uk/~jac22/), [Junfei Zhan (UPenn)](https://junfei-z.github.io/), [Zhezhuang Xu (FZU)](https://scholar.google.com/citations?hl=zh-CN&user=iZ7LQRkAAAAJ&view_op=list_works&sortby=pubdate), [Meng Yuan (VUW)](https://myuan27.github.io/)<br><br> -->
 
 
 
@@ -20,88 +20,67 @@ title: Publications
 
 ## Journal Paper
 
-- [Graph Representation Learning Augmented Model Manipulation on Federated Fine-Tuning of LLMs](https://arxiv.org/abs/2605.07961)<br>**Hanlin Cai**, Kai Li~~, Houtianfu Wang, Haofan Dong, Yichen Li, Falko Dressler, Ozgur B. Akan<br>Submitted to an IEEE Transaction Journal, 2026.<br>
+**2023**<br>
+- [Robust fabrication of ultra-soft tunable PDMS microcapsules as a biomimetic model for red blood cells](10.1039/D3SM00208J)<br>
+**Qi Chen**, Naval Singh, Kerstin Schirrmann, Qi Zhou, Igor L. Chernyavsky, and Anne Juel.<br>
+*Soft Matter* 19 (2023): 5249-5261.<br>
 
-  
+- [Characterization of micro-haemodynamics in the placental intervillous space by integrated experimental and theoretical approaches](10.1016/j.placenta.2023.07.205)<br>
+Eleanor Doman, Qi Zhou, **Qi Chen**, Naval Singh, Anne Juel, Miguel O. Bernabeu, Timm Krüger, Oliver E. Jensen, and Igor L. Chernyavsky.<br>
+*Placenta* 140 (2023): E63-E64.<br>
 
-- [Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision](https://arxiv.org/abs/2503.23446)<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Ozgur B. Akan<br>Submitted to an IEEE ComSoc Magazine, 2025.<br>
+**2022**<br>
+- [Red blood cell dynamics in extravascular biological tissues modelled as canonical disordered porous media](10.1098/rsfs.2022.0037)<br>
+Qi Zhou, Kerstin Schirrmann, Eleanor Doman, **Qi Chen**, Naval Singh, P. Ravi Selvaganapathy, Miguel O. Bernabeu et al. <br>
+*Interface Focus* 12, no. 6 (2022): 20220037.<br>
 
-  
+- [Micro-haemodynamics at the maternal–fetal interface: Experimental, theoretical and clinical perspectives](10.1016/j.cobme.2022.100387)<br>
+Qi Zhou, Eleanor Doman, Kerstin Schirrmann, **Qi Chen**, Elizabeth A. Seed, Edward D. Johnstone, P. Ravi Selvaganapathy et al.<br>
+*Current Opinion in Biomedical Engineering* 22 (2022): 100387.<br>
 
-- [A Policy-Aware Cross-Layer Auditing Service for Tiering and Throttling in Starlink](https://arxiv.org/abs/2603.08990)<br>Houtianfu Wang, **Hanlin Cai~~**, Haofan Dong, Ozgur B. Akan<br>Submitted to IEEE Networking Letter, 2026.<br>
+**2021**<br>
+- [Pressure-driven microfluidic droplet formation in Newtonian and shear-thinning fluids in glass flow-focusing microchannels](10.1016/j.ijmultiphaseflow.2021.103648)<br>
+**Qi Chen**, Jingkun Li, Yu Song, Bin Chen, David M. Christopher, and Xuefang Li.<br>
+*International Journal of Multiphase Flow* 140 (2021): 103648.<br>
 
-  
-  
-- [Rain Rate Estimation Bounds and Weather-Adaptive Pilot Allocation for LEO Satellite ISAC](https://arxiv.org/abs/2604.10830)<br>Haofan Dong~~, Houtianfu Wang, **Hanlin Cai**, Ozgur B. Akan<br>Submitted to an IEEE Transaction Journal, 2026.<br>
+**2020**<br>
+- [Modeling of Newtonian droplet formation in power-law non-Newtonian fluids in a flow-focusing device](10.1007/s00231-020-02899-6)	<br>
+**Qi Chen**, Jingkun Li, Yu Song, David M. Christopher, and Xuefang Li.  <br>
+*Heat and Mass Transfer* 56 (2020): 2711-2723.<br>
 
-  
-  
-- [Risk-Aware Link Adaptation Architecture for Ka-Band LEO Downlinks Under Ionospheric Disturbances](https://arxiv.org/abs/2601.00820)<br>Houtianfu Wang, Haofan Dong, **Hanlin Cai**, Ozgur B. Akan<br>Submitted to an IEEE Transaction Journal, 2026.<br>
+- Newtonian droplet generation in shear-thinning fluids in flow-focusing microchannel (in Chinese)<br>
+**Qi Chen**, Jingkun Li, Yu Song, Qian He, and Xuefang Li.<br>
+*CIESC Journal* 71 (2020):1510.<br>
 
-  
-  
-- Measurement-Grounded Deadline Feasibility over LEO RF and Optical Access Links<br>Houtianfu Wang, Osman. T. Baydas, **Hanlin Cai**, Haofan Dong, Ozgur B. Akan<br>Submitted to an IEEE Transaction Journal, 2026.<br>
+**2019**<br>
+- [Performance of continuous helical baffled heat exchanger with varying elliptical tube layouts](10.1016/j.ijheatmasstransfer.2018.12.142)<br>
+Tingting Du, **Qi Chen**, Wenjing Du, and Lin Cheng.<br>
+*International Journal of Heat and Mass Transfer* 133 (2019): 1165-1175.<br>
 
-  
-  
-- [Physically-Induced Atmospheric Adversarial Perturbations: Enhancing Transferability and Robustness in Remote Sensing Image Classification](https://arxiv.org/abs/2604.14643)<br>Weiwei Zhang, Wangze Xie, Qi Zhang, Xia Du, Zihan Lin, Zheng Lin, **Hanlin Cai**, Jizhe Zhou, Zihan Fang, Chi-man Pun, Wei Ni, Jun Luo<br>Submitted to an IEEE Transaction Journal, 2026.<br>
-
-  
-  
-- [Fundamental Limits of Cooperative Integrated Sensing and Communications over Low-Earth Orbit THz Satellite Channels](https://arxiv.org/abs/2510.19007)<br>Haofan Dong, Houtianfu Wang, **Hanlin Cai**, Ozgur B. Akan<br>Submitted to an IEEE Transaction Journal, 2026.<br>
-
-  
-
-- [A reversed solar illumination dependence of unintended emission from Starlink Direct-to-Cell satellites at 72–234 MHz with the EDA2](https://arxiv.org/abs/2605.17150)<br>Haofan Dong~~, Houtianfu Wang, **Hanlin Cai**, Ozgur B. Akan<br>Submitted to Publications of the Astronomical Society of Australia (PASA), 2026.<br>
-
-  <br>
-
----
-
-## Conference Paper
-
-- [Performance Bounds and Robust Filtering for LEO Inter-Satellite Synchronization under Cross-Epoch Doppler Coupling](https://arxiv.org/pdf/2603.11280)<br>Haofan Dong, Houtianfu Wang, **Hanlin Cai**, Ozgur B. Akan<br>Submitted to the IEEE 27th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC). <br>Athens, Greece. September, 2026.<br>
-
-  
-
-- [Graph Representation-based Model Poisoning on the Heterogeneous Internet of Agents](https://arxiv.org/abs/2511.07176)<br>**Hanlin Cai**, Houtianfu Wang, Haofan Dong, Kai Li, Sai Zou~~, Ozgur B. Akan<br>Proceedings of the IEEE 22nd International Wireless Communications & Mobile Computing Conference (IWCMC). <br>Shanghai, China. June, 2026.<br>
-
-  
-
-- [Semantic Learning for Molecular Communication in Internet of Bio-Nano Things](https://arxiv.org/abs/2502.08426)<br>**Hanlin Cai~~**, Ozgur B. Akan<br>Proceedings of the 9th Workshop on Molecular Communications<br>Catania, Italy. April, 2025.<br>
-
-  
-
-- [Securing Billion Bluetooth Low Energy Devices Using Cyber-Physical Analysis and Deep Learning Techniques](https://www.researchgate.net/publication/384046364/)<br>**Hanlin Cai†**, Yuchen Fang**†**, Jiacheng Huang, Honglin Liao, Meng Yuan, Zhezhuang Xu**~~**<br>Presented at the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), [Undergraduate Consortium](https://kdd2024.kdd.org/undergraduate-consortium/).<br>Barcelona, Spain. August, 2024.<br>
-
-  
-
-- [Poster: Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://dl.acm.org/doi/abs/10.1145/3643832.3661434)<br>**Hanlin Cai**, Yuchen Fang, Jiacheng Huang, Meng Yuan, Zhezhuang Xu**~~**<br>Proceedings of the 22nd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys).<br>Tokyo, Japan. June, 2024.<br>
-
-  
-
-- [Applying LLM-Powered Virtual Humans to Child Interviews in Child-Centered Design](https://arxiv.org/abs/2504.20016)<br>Linshi Li, **Hanlin Cai~~**<br>Proceedings of the 24th Annual ACM Interaction Design and Children Conference (IDC).<br>Reykjavik, Iceland. June, 2025.<br>
-
-  
-
-- SeeMusic: XR-Enhanced Musical Language Training Application for Hearing-impaired Children<br>Linshi Li, Xianjinghua Chen, Yutian Qin and **Hanlin Cai~~**<br>Proceedings of the 14th IEEE International Conference on Educational and Information Technology.<br>Guangzhou, China. March, 2025.<br>
-
-  <br>
-
-
----
-
-## Early Paper (during Undergrad)
-
-- [Securing Billion Bluetooth Devices Leveraging Learning-based Techniques](https://ojs.aaai.org/index.php/AAAI/article/view/30544)<br>*Final-year project ([see thesis below]({{ site.url }}/mypaper/thesis/UG-thesis.pdf)).*<br>**Hanlin Cai** (Advisors: Zhezhuang Xu, Tozammel Hossain)<br>Proceedings of the 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024), [Undergraduate Consortium](https://aaai.org/aaai-24-conference/undergraduate-consortium-program/).<br>Vancouver, Canada. February, 2024.<br>
-
-  
-
-- Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model<br>*Third-year course design.*<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>Proceedings of the 28th International Conference on Artificial Life and Robotics.<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the *Journal of Advances in Artificial Life Robotics*.
+- [Modeling of underexpanded hydrogen jets through square and rectangular slot nozzles](10.1016/j.ijhydene.2019.01.079)<br>
+Xuefang Li, **Qi Chen**, Mingjia Chen, Qian He, David M. Christopher, Xu Cheng, Bikram Roy Chowdhury, and Ethan S. Hecht.<br>
+*International Journal of Hydrogen Energy* 44, (2019): 6353-6365.<br>
 
   <br>
 
 ---
+
+## Conference Presentations
+
+
+- [Microfluidic model of micro-haemodynamics in porous media](), oral presentation, APS Division of Fluid Dynamics Annual Meeting, Washington USA, November 2023.<br>
+
+- A microfluidic model of micro-haemorheology in complex porous media, oral presentation, International Congress on Rheology, Athens Greece, August 2023.<br>
+
+- Microfluidic model of micro-haemodynamics, oral presentation, APS Division of Fluid Dynamics Annual Meeting, Indianapolis USA, November 2022.<br>
+
+- Microfluidic model of micro-haemodynamics, oral presentation, IOP workshop: Microrheology and Transport in Complex Biological Media, Edinburgh UK, May 2022.<br>
+
+- Microfluidic model of micro-haemodynamics, poster presentation, Biological Fluids & Flows: A Conference to Celebrate the 80th Birthday of Prof. Tim Pedley, Cambridge UK, March 2022.<br>
+
+- A robust microfluidic device for fabricating deformable microcapsules based on water-oil-water double-emulsion templates, poster presentation, UK Fluids Conference, online, 2021.<br>
+
+  <br>
 
 ## Degree Thesis
 
@@ -112,5 +91,4 @@ title: Publications
 - [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot]({{ site.url }}/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Yuxiong Xia).<br>Industrial Placement Report at China Fuzhou Huading Tech. (Third-year industrial progrom).<br>
 
   <br>
-
 <br>
