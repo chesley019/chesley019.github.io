@@ -16,107 +16,136 @@ title: Awards
 </div>
 
 
+<!-- ==================== 独占隔离版：带文字标签轮播图 ==================== -->
+<div class="pub-carousel-container">
+    <div class="pub-carousel-track" id="pub-track">
+        
+        <!-- 第一张图 + 标签 -->
+        <div class="pub-carousel-slide">
+            <img src="{{ site.baseurl }}/images/OR_Day.jpg" alt="Publication Image 1">
+            <div class="pub-carousel-text">
+                <p>Manchester, UK, (2025)</p>
+            </div>
+        </div>
 
-<!-- ==================== 完美自适应轮播图开始 ==================== -->
-<!-- 1. HTML 结构：保持简单干净 -->
-<div class="carousel-container">
-    <div class="carousel-track" id="track">
-        <img src="{{ site.baseurl }}/images/OR_Day.jpg" alt="Publication Image 1">
-        <img src="{{ site.baseurl }}/images/OR_Day_2.jpg" alt="Publication Image 2">
+        <!-- 第二张图 + 标签 -->
+        <div class="pub-carousel-slide">
+            <img src="{{ site.baseurl }}/images/OR_Day_2.jpg" alt="Publication Image 2">
+            <div class="pub-carousel-text">
+                <p>Singapore, (2026)</p>
+            </div>
+        </div>
+
     </div>
 
     <!-- 左右切换按钮 -->
-    <button class="carousel-btn prev-btn" onclick="moveSlide(-1)">&#10094;</button>
-    <button class="carousel-btn next-btn" onclick="moveSlide(1)">&#10095;</button>
+    <button class="pub-carousel-btn pub-prev-btn" onclick="movePubSlide(-1)">&#10094;</button>
+    <button class="pub-carousel-btn pub-next-btn" onclick="movePubSlide(1)">&#10095;</button>
 </div>
 
-<!-- 2. CSS 样式：核心修复比例问题 -->
+<!-- 2. CSS 样式：全部加上了 pub- 前缀，绝对不会污染首页 -->
 <style>
-    /* 轮播图外层大盒子 */
-    .carousel-container {
+    .pub-carousel-container {
         position: relative;
-        width: 100%;            /* 宽度撑满父级容器 */
-        max-width: 650px;       /* 限制最大宽度，防止在大屏幕上大得夸张 */
-        height: 400px;          /* 【关键】固定轮播图的整体高度，你可以根据需要调整这个数值 */
-        margin: 25px auto;      /* 上下留白，水平居中 */
-        overflow: hidden;       /* 隐藏视窗外的其他图片 */
-        border-radius: 8px;     /* 优雅的轻微圆角 */
-        box-shadow: 0 4px 16px rgba(0,0,0,0.12); /* 淡淡的阴影，增加立体感 */
-        background-color: #1a1a1a; /* 【关键】如果图片比例不一致，两侧/上下会自动补上高级的暗色背景 */
+        width: 100%;
+        max-width: 650px;
+        height: 450px;
+        margin: 25px auto;
+        overflow: hidden;
+        border-radius: 8px;
+        box-shadow: 0 4px 16px rgba(0,0,0,0.12);
+        background-color: #1a1a1a;
     }
 
-    /* 内部滚动的长轨道 */
-    .carousel-track {
+    .pub-carousel-track {
         display: flex;
         width: 100%;
-        height: 100%;           /* 撑满外层盒子高度 */
-        transition: transform 0.4s ease-in-out; /* 平滑的切换动画 */
+        height: 100%;
+        transition: transform 0.4s ease-in-out;
     }
 
-    /* 【核心修复】图片样式 */
-    .carousel-track img {
-        width: 100%;            /* 每一张图在轨道里占满 100% 宽度 */
-        height: 100%;           /* 每一张图在轨道里占满 100% 高度 */
-        flex-shrink: 0;         /* 防止图片被无情挤压 */
-        
-        /* 🌟 核心魔法属性 🌟 */
-        object-fit: contain;    /* 保持原图比例完整显示，绝不拉伸、绝不变形！ */
-        
-        display: block;
+    .pub-carousel-slide {
+        width: 100%;
+        height: 100%;
+        flex-shrink: 0;
+        display: flex;
+        flex-direction: column;
+        position: relative;
     }
 
-    /* 左右按钮通用样式 */
-    .carousel-btn {
+    /* 限制极其精准，只改轮播图内部的图片 */
+    .pub-carousel-slide img {
+        width: 100% !important; /* !important 确保不被主题自带的样式强行扭曲 */
+        height: calc(100% - 40px) !important;
+        object-fit: contain !important;
+        display: block !important;
+        margin: 0 auto !important;
+    }
+
+    /* 独占的文字标签样式 */
+    .pub-carousel-text {
+        height: 40px;
+        background-color: rgba(255, 255, 255, 0.95);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+    }
+
+    .pub-carousel-text p {
+        margin: 0 !important;
+        font-size: 14px !important;
+        color: #333 !important;
+        font-weight: 500;
+    }
+
+    /* 独占的按钮样式 */
+    .pub-carousel-btn {
         position: absolute;
-        top: 50%;
-        transform: translateY(-50%); /* 垂直完美居中 */
-        background-color: rgba(0, 0, 0, 0.45); /* 半透明黑底 */
+        top: calc(50% - 20px);
+        transform: translateY(-50%);
+        background-color: rgba(0, 0, 0, 0.45);
         color: white;
         border: none;
         padding: 12px 16px;
         font-size: 20px;
         cursor: pointer;
-        border-radius: 50%;     /* 完美的圆形按钮 */
+        border-radius: 50%;
         transition: all 0.3s ease;
-        z-index: 10;            /* 确保按钮永远漂浮在图片上方 */
+        z-index: 10;
     }
 
-    /* 鼠标悬停在按钮上时的视觉反馈 */
-    .carousel-btn:hover {
+    .pub-carousel-btn:hover {
         background-color: rgba(0, 0, 0, 0.8);
-        transform: translateY(-50%) scale(1.1); /* 轻微放大，更有交互感 */
+        transform: translateY(-50%) scale(1.1);
     }
 
-    /* 定位左箭头与右箭头 */
-    .prev-btn { left: 15px; }
-    .next-btn { right: 15px; }
+    .pub-prev-btn { left: 15px; }
+    .pub-next-btn { right: 15px; }
 </style>
 
-<!-- 3. JavaScript 逻辑：控制完美循环切换 -->
+<!-- 3. JavaScript 逻辑：函数名也进行了唯一化隔离 -->
 <script>
-    let currentIndex = 0;
+    let currentPubIndex = 0;
     
-    function moveSlide(direction) {
-        const track = document.getElementById('track');
+    function movePubSlide(direction) {
+        const track = document.getElementById('pub-track');
         if (!track) return;
         
         const totalSlides = track.children.length;
         
-        // 更新索引
-        currentIndex = currentIndex + direction;
+        currentPubIndex = currentPubIndex + direction;
 
-        // 边界循环保护
-        if (currentIndex < 0) {
-            currentIndex = totalSlides - 1; // 第一张点左，跳到最后一张
-        } else if (currentIndex >= totalSlides) {
-            currentIndex = 0;               // 最后一张点右，回到第一张
+        if (currentPubIndex < 0) {
+            currentPubIndex = totalSlides - 1;
+        } else if (currentPubIndex >= totalSlides) {
+            currentPubIndex = 0;
         }
 
-        // 计算平移百分比并应用
-        track.style.transform = `translateX(-${currentIndex * 100}%)`;
+        track.style.transform = `translateX(-${currentPubIndex * 100}%)`;
     }
 </script>
-<!-- ==================== 完美自适应轮播图结束 ==================== -->
+<!-- ==================== 轮播图结束 ==================== -->
 
 <!-- - A robust microfluidic device for fabricating deformable microcapsules based on water-oil-water double-emulsion templates, poster presentation, UK Fluids Conference, online, 2021.<br> -->
 
