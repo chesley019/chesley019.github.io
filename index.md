@@ -4,7 +4,7 @@ layout: page
 
 ## About Me
 
-<img src="{{ "/QiChen_2" | relative_url }}" class="floatpic" alt="Qi Chen">
+<img src="{{ "/QiChen_2.png" | relative_url }}" class="floatpic" alt="Qi Chen">
 
 <br>Here is **Qi Chen** (陈琦).<br>
 
