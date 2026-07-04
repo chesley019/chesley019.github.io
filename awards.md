@@ -8,21 +8,13 @@ title: Awards
 
 - Nov 2025：Runner-up of Osborne Reynolds 2025
 
-<div class="one">
-    <img src="/images/OR_Day.jpg">
-    <div class="text-content">
-        <p>Manchester, UK, (2025)</p>
-    </div>
-</div>
-
-
 <!-- ==================== 独占隔离版：带文字标签轮播图 ==================== -->
 <div class="pub-carousel-container">
     <div class="pub-carousel-track" id="pub-track">
         
         <!-- 第一张图 + 标签 -->
         <div class="pub-carousel-slide">
-            <img src="{{ site.baseurl }}/images/OR_Day.jpg" alt="Publication Image 1">
+            <img src="{{ site.baseurl }}/images/OR_Day_0.jpg" alt="Publication Image 1">
             <div class="pub-carousel-text">
                 <p>Manchester, UK, (2025)</p>
             </div>
@@ -30,9 +22,25 @@ title: Awards
 
         <!-- 第二张图 + 标签 -->
         <div class="pub-carousel-slide">
-            <img src="{{ site.baseurl }}/images/OR_Day_2.jpg" alt="Publication Image 2">
+            <img src="{{ site.baseurl }}/images/OR_Day_1.jpg" alt="Publication Image 2">
             <div class="pub-carousel-text">
-                <p>Singapore, (2026)</p>
+                <p>Manchester, UK, (2025), (2026)</p>
+            </div>
+        </div>
+
+        <!-- 第三张图 + 标签 -->
+        <div class="pub-carousel-slide">
+            <img src="{{ site.baseurl }}/images/OR_Day_2.jpg" alt="Publication Image 1">
+            <div class="pub-carousel-text">
+                <p>Manchester, UK, (2025)</p>
+            </div>
+        </div>
+
+        <!-- 第四张图 + 标签 -->
+        <div class="pub-carousel-slide">
+            <img src="{{ site.baseurl }}/images/OR_Day_3.jpg" alt="Publication Image 1">
+            <div class="pub-carousel-text">
+                <p>Manchester, UK, (2025)</p>
             </div>
         </div>
 
