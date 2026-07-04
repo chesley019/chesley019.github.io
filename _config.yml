@@ -49,18 +49,18 @@ google_analytics: "G-T5N5JY1E21"                                 # GA-4 measurem
 links:
   - title: About Me
     url: /
-  # - title: Publications
-  #   url: /publications/
-  # - title: Services
-  #   url: /services/
-  # - title: Awards
-  #   url: /awards/
-  # - title: Hobbies
-  #   url: /hobbies/
-  # - title: Blogs
-  #   url: /blogs/
-  # - title: 中文
-  #   url: /cn/
+  - title: Projects
+    url: /projects/
+  - title: Publications
+    url: /publications/
+  - title: Awards
+    url: /awards/
+  - title: Hobbies
+    url: /hobbies/
+  - title: Blogs
+    url: /blogs/
+  - title: Contact Me
+    url: /cm/
 
 
 # --------------------------------------------------
