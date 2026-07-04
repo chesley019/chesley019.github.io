@@ -1,7 +1,7 @@
 # --------------------------------------------------
 #  BASIC SITE INFO
 # --------------------------------------------------
-title: Qi Chen   # Main site title (appears in browser tab & RSS)
+# title: Qi Chen   # Main site title (appears in browser tab & RSS)
 tagline: Here is personal website of Qi Chen. Powered by Jekyll, based on the Minimal Mistakes theme.  # Optional short tagline, used by some layouts
 description: Here is personal website of Qi Chen, Research Fellow at Nanyang Technological University.  # Strongly recommended for SEO & social cards
 
