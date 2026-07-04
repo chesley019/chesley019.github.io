@@ -13,15 +13,15 @@ url: https://caihanlin.com
 #  AUTHOR / PROFILE DATA
 # --------------------------------------------------
 owner:
-  name: Hanlin Cai
+  name: Qi Chen
   avatar: cam_logo.png   # 剑桥校徽（正方形）
   # bio: Dream big, stay positive, work hard, and enjoy the journey.
   email: hc663@cam.ac.uk
   # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lancecai2002
-  github: GuangLun2000
+  #twitter: lancecai2002
+  #github: GuangLun2000
   linkedin: hanlincai
   scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
   researchgate: https://www.researchgate.net/profile/Hanlin-Cai
