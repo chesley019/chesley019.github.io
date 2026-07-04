@@ -8,6 +8,12 @@ title: Awards
 
 - Nov 2025：Runner-up of Osborne Reynolds 2025
 
+  [Osborne Reynolds Day](https://www.osbornereynolds.org/) is an annual national event in UK hosted by the University of Manchester in collaboration with ERCOFTAC to celebrate the life and groundbreaking contributions of Professor Osborne Reynolds, a pioneer in fluid mechanics.
+
+  The event serves as a prestigious platform that brings together top researchers from both academia and industry to showcase the latest innovations, trends, and challenges in fluid dynamics.
+
+  A central highlight of the day is a highly competitive PhD presentation series, where recently graduated or final-year doctoral students present their research to win cash prizes and the chance to compete at the European level.
+
 <!-- ==================== 独占隔离版：带文字标签轮播图 ==================== -->
 <div class="pub-carousel-container">
     <div class="pub-carousel-track" id="pub-track">
@@ -24,7 +30,7 @@ title: Awards
         <div class="pub-carousel-slide">
             <img src="{{ site.baseurl }}/images/OR_Day_1.jpg" alt="Publication Image 2">
             <div class="pub-carousel-text">
-                <p>Manchester, UK, (2025), (2026)</p>
+                <p>Manchester, UK, (2025)</p>
             </div>
         </div>
 
@@ -157,7 +163,8 @@ title: Awards
 
 <!-- ==================== 轮播图结束 ==================== -->
 
-<!-- - A robust microfluidic device for fabricating deformable microcapsules based on water-oil-water double-emulsion templates, poster presentation, UK Fluids Conference, online, 2021.<br> -->
+
+- Shortlisted for Best Poster Award at UK Fluids Conference, 2021.
 
 
 <br>
