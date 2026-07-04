@@ -13,7 +13,7 @@ url: https://chesley019.github.io
 #  AUTHOR / PROFILE DATA
 # --------------------------------------------------
 owner:
-  # name: Qi Chen
+  name: Qi Chen
   avatar: cam_logo.png   # 剑桥校徽（正方形）
   bio: Dream big, stay positive, work hard, and enjoy the journey.
   email: qi_chen@ntu.edu.sg
@@ -55,8 +55,8 @@ links:
   #   url: /services/
   # - title: Awards
   #   url: /awards/
-  - title: Hobbies
-    url: /hobbies/
+  # - title: Hobbies
+  #   url: /hobbies/
   # - title: Blogs
   #   url: /blogs/
   # - title: 中文
