@@ -6,9 +6,8 @@ title: Awards
 
 ## Competitions
 
-- Nov 2025：Runner-up of Osborne Reynolds 2025
-
-  [Osborne Reynolds Day](https://www.osbornereynolds.org/) is an annual national event in UK hosted by the University of Manchester in collaboration with ERCOFTAC to celebrate the life and groundbreaking contributions of Professor Osborne Reynolds, a pioneer in fluid mechanics. The event serves as a prestigious platform that brings together top researchers from both academia and industry to showcase the latest innovations, trends, and challenges in fluid dynamics. A central highlight of the day is a highly competitive PhD presentation series, where recently graduated or final-year doctoral students present their research to win cash prizes and the chance to compete at the European level.
+- Nov 2025：Runner-up of Osborne Reynolds 2025<br>
+[Osborne Reynolds Day](https://www.osbornereynolds.org/) is an annual national event in UK hosted by the University of Manchester in collaboration with ERCOFTAC to celebrate the life and groundbreaking contributions of Professor Osborne Reynolds, a pioneer in fluid mechanics. The event serves as a prestigious platform that brings together top researchers from both academia and industry to showcase the latest innovations, trends, and challenges in fluid dynamics. A central highlight of the day is a highly competitive PhD presentation series, where recently graduated or final-year doctoral students present their research to win cash prizes and the chance to compete at the European level.
 
 <!-- ==================== 独占隔离版：带文字标签轮播图 ==================== -->
 <div class="pub-carousel-container">
