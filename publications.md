@@ -21,7 +21,6 @@ title: Publications
 ## Journal Paper
 
 **2023**
-
 <img src="OR_Day_2.jpg" align="left" width="130" style="margin-right: 15px;">
 
 - [Robust fabrication of ultra-soft tunable PDMS microcapsules as a biomimetic model for red blood cells](https://doi.org/10.1039/D3SM00208J)  
