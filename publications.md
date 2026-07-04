@@ -84,7 +84,7 @@ Xuefang Li, **Qi Chen**, Mingjia Chen, Qian He, David M. Christopher, Xu Cheng, 
 
 ## PhD Thesis
 
-- [Microfluidic Model of Haemodynamics in Porous Media](https://research.manchester.ac.uk/files/1574776178/FULL_TEXT.PDF)<br>
+- [Microfluidic Model of Haemodynamics in Porous Media](https://research.manchester.ac.uk/files/1574776178/FULL_TEXT.PDF) <br>
 **Qi Chen**<br>
 Supervised by [Prof. Anne Juel](https://research.manchester.ac.uk/en/persons/anne.juel/) and [Dr. Igor L. Chernyavsky](https://math-biophys.info/wiki/start).<br>
 Department of Physics & Astronomy, University of Manchetser, UK.<br>
