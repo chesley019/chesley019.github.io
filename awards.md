@@ -10,7 +10,7 @@ title: Awards
 
 - Nov 2025：Runner-up of Osborne Reynolds 2025, Manchester, UK
 
-<div class="third">
+<div class="twice">
 <img src="/images/OR_Day.jpg">
 <img src="/images/OR_Day_2.jpg">
 <!-- <img src="/images/OR_Day_2.jpg"> -->
