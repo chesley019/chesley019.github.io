@@ -13,7 +13,7 @@ title: Awards
 <div class="third">
 <img src="/images/OR_Day.jpg">
 <img src="/images/OR_Day_2.jpg">
-<img src="/images/OR_Day_2.jpg">
+<!-- <img src="/images/OR_Day_2.jpg"> -->
 </div>
 
 <!-- - A robust microfluidic device for fabricating deformable microcapsules based on water-oil-water double-emulsion templates, poster presentation, UK Fluids Conference, online, 2021.<br> -->
