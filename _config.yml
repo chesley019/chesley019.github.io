@@ -13,7 +13,7 @@ url: https://chesley019.github.io
 #  AUTHOR / PROFILE DATA
 # --------------------------------------------------
 owner:
-  name: Qi Chen
+  # name: Qi Chen
   avatar: cam_logo.png   # 剑桥校徽（正方形）
   bio: Dream big, stay positive, work hard, and enjoy the journey.
   email: qi_chen@ntu.edu.sg
@@ -22,7 +22,7 @@ owner:
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: QiCHEN1555457
   # github: GuangLun2000
-  linkedin: hanlincai
+  linkedin: https://www.linkedin.com/in/qi-chen-ba6312211
   scholar: https://scholar.google.com/citations?user=xo4f6OsAAAAJ&hl=en
   researchgate: https://www.researchgate.net/profile/Qi-Chen-152
   # zhihu: https://www.zhihu.com/people/chlire
