@@ -68,27 +68,26 @@ Xuefang Li, **Qi Chen**, Mingjia Chen, Qian He, David M. Christopher, Xu Cheng, 
 ## Conference Presentations
 
 
-- [Microfluidic model of micro-haemodynamics in porous media](), oral presentation, APS Division of Fluid Dynamics Annual Meeting, Washington USA, November 2023.<br>
+- [Microfluidic model of micro-haemodynamics in porous media](https://meetings.aps.org/Meeting/DFD23/Session/J14.3), oral presentation, APS Division of Fluid Dynamics Annual Meeting, Washington, USA, November 2023.<br>
 
-- A microfluidic model of micro-haemorheology in complex porous media, oral presentation, International Congress on Rheology, Athens Greece, August 2023.<br>
+- A microfluidic model of micro-haemorheology in complex porous media, oral presentation, International Congress on Rheology, Athens, Greece, August 2023.<br>
 
-- Microfluidic model of micro-haemodynamics, oral presentation, APS Division of Fluid Dynamics Annual Meeting, Indianapolis USA, November 2022.<br>
+- [Microfluidic model of micro-haemodynamics](https://meetings.aps.org/Meeting/DFD22/Session/L05.2), oral presentation, APS Division of Fluid Dynamics Annual Meeting, Indianapolis, USA, November 2022.<br>
 
-- Microfluidic model of micro-haemodynamics, oral presentation, IOP workshop: Microrheology and Transport in Complex Biological Media, Edinburgh UK, May 2022.<br>
+- Microfluidic model of micro-haemodynamics, oral presentation, IOP workshop: Microrheology and Transport in Complex Biological Media, Edinburgh, UK, May 2022.<br>
 
-- Microfluidic model of micro-haemodynamics, poster presentation, Biological Fluids & Flows: A Conference to Celebrate the 80th Birthday of Prof. Tim Pedley, Cambridge UK, March 2022.<br>
+- Microfluidic model of micro-haemodynamics, poster presentation, Biological Fluids & Flows: A Conference to Celebrate the 80th Birthday of Prof. Tim Pedley, Cambridge, UK, March 2022.<br>
 
 - A robust microfluidic device for fabricating deformable microcapsules based on water-oil-water double-emulsion templates, poster presentation, UK Fluids Conference, online, 2021.<br>
 
   <br>
 
-## Degree Thesis
+## PhD Thesis
 
-- [Semantic Communication for the Internet of Everything: From Molecular to Space Networks]({{ site.url }}/mypaper/thesis/MPhil_thesis.pdf)<br>**Hanlin Cai** (Advisor: Dr. Ozgur B. Akan).<br>Examiners: [Dr. Sasitharan Balasubramaniam](https://computing.unl.edu/person/sasitharan-balasubramaniam/), [Dr. Qixiang Cheng](https://www.eng.cam.ac.uk/profiles/qc223).<br>Thesis awarded High Distinction.<br>
-
-- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks]({{ site.url }}/mypaper/thesis/UG-thesis.pdf)<br>**Hanlin Cai** (Advisor: Dr. Zhezhuang Xu).<br>Best Bachelor Thesis Award (top 1/300, the highest score of year 2024).<br>
-
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot]({{ site.url }}/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Yuxiong Xia).<br>Industrial Placement Report at China Fuzhou Huading Tech. (Third-year industrial progrom).<br>
+- [Microfluidic Model of Haemodynamics in Porous Media](https://research.manchester.ac.uk/files/1574776178/FULL_TEXT.PDF)<br>
+**Qi Chen**<br>
+Supervised by [Prof. Anne Juel](https://research.manchester.ac.uk/en/persons/anne.juel/) and [Dr. Igor L. Chernyavsky](https://math-biophys.info/wiki/start).<br>
+Department of Physics & Astronomy, University of Manchetser, UK.<br>
 
   <br>
 <br>
