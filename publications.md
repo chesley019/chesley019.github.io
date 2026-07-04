@@ -21,30 +21,30 @@ title: Publications
 ## Journal Paper
 
 **2023**<br>
-- [Robust fabrication of ultra-soft tunable PDMS microcapsules as a biomimetic model for red blood cells](10.1039/D3SM00208J)<br>
+- [Robust fabrication of ultra-soft tunable PDMS microcapsules as a biomimetic model for red blood cells](https://doi.org/10.1039/D3SM00208J)<br>
 **Qi Chen**, Naval Singh, Kerstin Schirrmann, Qi Zhou, Igor L. Chernyavsky, and Anne Juel.<br>
 *Soft Matter* 19 (2023): 5249-5261.<br>
 
-- [Characterization of micro-haemodynamics in the placental intervillous space by integrated experimental and theoretical approaches](10.1016/j.placenta.2023.07.205)<br>
+- [Characterization of micro-haemodynamics in the placental intervillous space by integrated experimental and theoretical approaches](https://doi.org/10.1016/j.placenta.2023.07.205)<br>
 Eleanor Doman, Qi Zhou, **Qi Chen**, Naval Singh, Anne Juel, Miguel O. Bernabeu, Timm Krüger, Oliver E. Jensen, and Igor L. Chernyavsky.<br>
 *Placenta* 140 (2023): E63-E64.<br>
 
 **2022**<br>
-- [Red blood cell dynamics in extravascular biological tissues modelled as canonical disordered porous media](10.1098/rsfs.2022.0037)<br>
+- [Red blood cell dynamics in extravascular biological tissues modelled as canonical disordered porous media](https://doi.org/10.1098/rsfs.2022.0037)<br>
 Qi Zhou, Kerstin Schirrmann, Eleanor Doman, **Qi Chen**, Naval Singh, P. Ravi Selvaganapathy, Miguel O. Bernabeu et al. <br>
 *Interface Focus* 12, no. 6 (2022): 20220037.<br>
 
-- [Micro-haemodynamics at the maternal–fetal interface: Experimental, theoretical and clinical perspectives](10.1016/j.cobme.2022.100387)<br>
+- [Micro-haemodynamics at the maternal–fetal interface: Experimental, theoretical and clinical perspectives](https://doi.org/10.1016/j.cobme.2022.100387)<br>
 Qi Zhou, Eleanor Doman, Kerstin Schirrmann, **Qi Chen**, Elizabeth A. Seed, Edward D. Johnstone, P. Ravi Selvaganapathy et al.<br>
 *Current Opinion in Biomedical Engineering* 22 (2022): 100387.<br>
 
 **2021**<br>
-- [Pressure-driven microfluidic droplet formation in Newtonian and shear-thinning fluids in glass flow-focusing microchannels](10.1016/j.ijmultiphaseflow.2021.103648)<br>
+- [Pressure-driven microfluidic droplet formation in Newtonian and shear-thinning fluids in glass flow-focusing microchannels](https://doi.org/10.1016/j.ijmultiphaseflow.2021.103648)<br>
 **Qi Chen**, Jingkun Li, Yu Song, Bin Chen, David M. Christopher, and Xuefang Li.<br>
 *International Journal of Multiphase Flow* 140 (2021): 103648.<br>
 
 **2020**<br>
-- [Modeling of Newtonian droplet formation in power-law non-Newtonian fluids in a flow-focusing device](10.1007/s00231-020-02899-6)	<br>
+- [Modeling of Newtonian droplet formation in power-law non-Newtonian fluids in a flow-focusing device](https://doi.org/10.1007/s00231-020-02899-6)	<br>
 **Qi Chen**, Jingkun Li, Yu Song, David M. Christopher, and Xuefang Li.  <br>
 *Heat and Mass Transfer* 56 (2020): 2711-2723.<br>
 
@@ -53,11 +53,11 @@ Qi Zhou, Eleanor Doman, Kerstin Schirrmann, **Qi Chen**, Elizabeth A. Seed, Edwa
 *CIESC Journal* 71 (2020):1510.<br>
 
 **2019**<br>
-- [Performance of continuous helical baffled heat exchanger with varying elliptical tube layouts](10.1016/j.ijheatmasstransfer.2018.12.142)<br>
+- [Performance of continuous helical baffled heat exchanger with varying elliptical tube layouts](https://doi.org/10.1016/j.ijheatmasstransfer.2018.12.142)<br>
 Tingting Du, **Qi Chen**, Wenjing Du, and Lin Cheng.<br>
 *International Journal of Heat and Mass Transfer* 133 (2019): 1165-1175.<br>
 
-- [Modeling of underexpanded hydrogen jets through square and rectangular slot nozzles](10.1016/j.ijhydene.2019.01.079)<br>
+- [Modeling of underexpanded hydrogen jets through square and rectangular slot nozzles](https://doi.org/10.1016/j.ijhydene.2019.01.079)<br>
 Xuefang Li, **Qi Chen**, Mingjia Chen, Qian He, David M. Christopher, Xu Cheng, Bikram Roy Chowdhury, and Ethan S. Hecht.<br>
 *International Journal of Hydrogen Energy* 44, (2019): 6353-6365.<br>
 
