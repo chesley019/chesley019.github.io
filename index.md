@@ -20,7 +20,7 @@ layout: page
 
 ## Research Interests
 
-- Edge LLMs
+- Microfluidics
 - LLM Networking
 - Attack, Defense, Resilience
 
