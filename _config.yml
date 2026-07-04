@@ -23,7 +23,7 @@ owner:
   #twitter: lancecai2002
   #github: GuangLun2000
   # linkedin: hanlincai
-  # scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
+  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
   # researchgate: https://www.researchgate.net/profile/Hanlin-Cai
   # zhihu: https://www.zhihu.com/people/chlire
   # xiaohongshu: 5c27848f0000000005030c6f
@@ -49,16 +49,16 @@ google_analytics: "G-T5N5JY1E21"                                 # GA-4 measurem
 links:
   - title: About Me
     url: /
-  - title: Publications
-    url: /publications/
-  - title: Services
-    url: /services/
-  - title: Awards
-    url: /awards/
+  # - title: Publications
+  #   url: /publications/
+  # - title: Services
+  #   url: /services/
+  # - title: Awards
+  #   url: /awards/
   - title: Hobbies
     url: /hobbies/
-  - title: Blogs
-    url: /blogs/
+  # - title: Blogs
+  #   url: /blogs/
   # - title: 中文
   #   url: /cn/
 
