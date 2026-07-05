@@ -17,7 +17,7 @@ title: research
     您的浏览器不支持播放该视频。
   </video>
   <p style="font-size: 13px; color: #666; margin-top: 6px;">
-    Figure 1: Numerical simulation of collective bacterial motion.
+    Figure 1: .
   </p>
 </div>
 
@@ -28,7 +28,7 @@ title: research
     您的浏览器不支持播放该视频。
   </video>
   <p style="font-size: 13px; color: #666; margin-top: 6px;">
-    Figure 1: Numerical simulation of collective bacterial motion.
+    Figure 1: .
   </p>
 </div>
 
