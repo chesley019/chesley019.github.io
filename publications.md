@@ -24,8 +24,7 @@ title: Publications
 
 - [Robust fabrication of ultra-soft tunable PDMS microcapsules as a biomimetic model for red blood cells](https://doi.org/10.1039/D3SM00208J)  
 **Qi Chen**, Naval Singh, Kerstin Schirrmann, Qi Zhou, Igor L. Chernyavsky, and Anne Juel.  
-*Soft Matter* 19 (2023): 5249-5261.
-<br clear="left"/>
+*Soft Matter* 19 (2023): 5249-5261.<br>
 
 - [Characterization of micro-haemodynamics in the placental intervillous space by integrated experimental and theoretical approaches](https://doi.org/10.1016/j.placenta.2023.07.205)<br>
 Eleanor Doman, Qi Zhou, **Qi Chen**, Naval Singh, Anne Juel, Miguel O. Bernabeu, Timm Krüger, Oliver E. Jensen, and Igor L. Chernyavsky.<br>
