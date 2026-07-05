@@ -13,7 +13,7 @@ title: research
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; margin: 30px 0; gap: 24px;">
   
   <!-- 左侧：两个视频上下排列的容器 -->
-  <div style="flex: 1; min-width: 200px; max-width: 200px; display: flex; flex-direction: column; gap: 20px;">
+  <div style="flex: 1; min-width: 150px; max-width: 150px; display: flex; flex-direction: column; gap: 20px;">
     
     <!-- 第一个视频 (OPM) -->
     <div>
