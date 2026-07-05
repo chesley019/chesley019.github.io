@@ -5,14 +5,15 @@ title: research
 
 ---
 
-**Collective Motion of Bacteria**<br>
+## Collective Motion of Bacteria
 The collective motion of *Myxococcus xanthus*.
 
-**Biomimetic Capsule Model for Red Blood Cells (RBCs)**<br>
+## Biomimetic Capsule Model for Red Blood Cells (RBCs)<br>
 I developed a suspension of ultra-soft PDMS microcapsules as a model for RBCs. 
 
 
-**Transport and Rheology of Soft Suspensions in Porous Media**
+## Transport and Rheology of Soft Suspensions in Porous Media
+
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; margin: 30px 0; gap: 24px;">
   
   <!-- 左侧：两个视频上下排列的容器 -->
@@ -46,11 +47,11 @@ I developed a suspension of ultra-soft PDMS microcapsules as a model for RBCs.
   <iframe width="560" height="315" src="https://www.youtube.com/embed/DXtKvrAFQsQ?si=fZEr4HyKx5l5Wghx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="border-radius: 8px;"></iframe>
 </div>
 
-**Droplet Microfluidics**<br>
+## Droplet Microfluidics
 Formation and operation of droplets/bubbles.
 
-**Pressurised Hydrogen jets**<br>
+## Pressurised Hydrogen jets
 The jetting dynamics of hydrogen released from the highly compressed tank through nozzles with different morphologies.
 
-**Enhanced Heat Transfer**<br>
+## Enhanced Heat Transfer
 Design and characterisation of heat exchangers.
