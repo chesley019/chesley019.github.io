@@ -34,11 +34,12 @@ title: research
 
   </div>
   
+
   <!-- 右侧：一整段文字介绍 -->
   <div style="flex: 1; min-width: 280px; padding: 10px; color: #333;">
     <h3 style="margin-top: 0; margin-bottom: 12px;">Transport and Rheology of Soft Suspensions in Porous Media</h3>
     <p style="font-size: 14px; line-height: 1.6; text-align: justify;">
-      <!-- 这里填写你的一整段介绍文字。左侧展示了 OPM（图1）与 DPM（图2）两种不同算法在相同场景下的运行对相比之下，OPM 在处理高密度数据时表现出更好的流畅度，而 DPM 则在细节还原度上略胜一筹。通过这两个直观的视频演示，可以清晰地看出两者在实际应用中的性能差异与各自的优缺点。 -->
+      <!-- 这里填写你的一整段介绍文字。左侧展示了 OPM（图1）与 DPM（图2）两种不同算法在相同场景下的运行对相比之下，OPM 在处理高密度数据时表现出更好的流畅度，而 DPM 则在细节还原度上略胜一筹。通过这两个直观的视频演示，可以清晰地看出两者在实际应用中的性能差异与各自的优缺点 -->
     </p>
   </div>
 
