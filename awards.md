@@ -17,7 +17,7 @@ title: Awards
         <div class="pub-carousel-slide">
             <img src="{{ site.baseurl }}/images/OR_Day_0.jpg" alt="Publication Image 1">
             <div class="pub-carousel-text">
-                <p>Manchester, UK, (2025)</p>
+                <p>Manchester, UK (2025)</p>
             </div>
         </div>
 
@@ -25,7 +25,7 @@ title: Awards
         <div class="pub-carousel-slide">
             <img src="{{ site.baseurl }}/images/OR_Day_1.jpg" alt="Publication Image 2">
             <div class="pub-carousel-text">
-                <p>Manchester, UK, (2025)</p>
+                <p>Manchester, UK (2025)</p>
             </div>
         </div>
 
@@ -33,7 +33,7 @@ title: Awards
         <div class="pub-carousel-slide">
             <img src="{{ site.baseurl }}/images/OR_Day_2.jpg" alt="Publication Image 1">
             <div class="pub-carousel-text">
-                <p>Manchester, UK, (2025)</p>
+                <p>Manchester, UK (2025)</p>
             </div>
         </div>
 
@@ -41,7 +41,7 @@ title: Awards
         <div class="pub-carousel-slide">
             <img src="{{ site.baseurl }}/images/OR_Day_3.jpg" alt="Publication Image 1">
             <div class="pub-carousel-text">
-                <p>Manchester, UK, (2025)</p>
+                <p>Manchester, UK (2025)</p>
             </div>
         </div>
 

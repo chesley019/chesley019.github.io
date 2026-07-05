@@ -31,6 +31,7 @@ layout: page
 - Active Matter & Collective Motion
 - Microfluidics, Fluid Mechanics
 - Hemodynamics and Hemorheology in Porous Media
+- Machine Learning
 
 
 <!-- ---
