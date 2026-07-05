@@ -13,14 +13,16 @@ title: research
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; margin: 30px 0; gap: 24px;">
   
   <!-- 左侧：两个视频上下排列的容器 -->
-  <div style="flex: 1; min-width: 320px; max-width: 550px; display: flex; flex-direction: column; gap: 20px;">
+  <div style="flex: 1; min-width: 320px; max-width: 320px; display: flex; flex-direction: column; gap: 20px;">
     
     <!-- 第一个视频 (OPM) -->
     <div>
       <video autoplay loop muted playsinline style="width: 100%; border-radius: 8px; border: 1px solid #eee; display: block;">
         <source src="{{ '/images/OPM.mp4' | relative_url }}" type="video/mp4">
+        <source src="{{ '/images/DPM.mp4' | relative_url }}" type="video/mp4">
         您的浏览器不支持播放该视频。
       </video>
+
       <p style="font-size: 13px; color: #666; margin-top: 6px;">Soft suspension flow in ordered porous medium.</p>
     </div>
 
