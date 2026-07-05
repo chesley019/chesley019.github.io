@@ -14,8 +14,6 @@ title: Publications
 - **Wireless Communications:** [Ozgur B. Akan](https://oba.eco/), [Haofan Dong](https://scholar.google.com/citations?user=tuhdAK0AAAAJ&hl=zh-CN), [Houtianfu Wang (Cambridge)](https://ioe.eng.cam.ac.uk/staff/houtianfu-wang)
 - **Mobile Networks:** [Jon Crowcroft](https://www.cl.cam.ac.uk/~jac22/), [Junfei Zhan (UPenn)](https://junfei-z.github.io/), [Zhezhuang Xu (FZU)](https://scholar.google.com/citations?hl=zh-CN&user=iZ7LQRkAAAAJ&view_op=list_works&sortby=pubdate), [Meng Yuan (VUW)](https://myuan27.github.io/)<br><br> -->
 
-
-
 ----
 
 ## Journal Paper
