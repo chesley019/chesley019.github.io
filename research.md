@@ -13,7 +13,7 @@ title: research
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; margin: 30px 0; gap: 24px;">
   
   <!-- 左侧：两个视频上下排列的容器 -->
-  <div style="flex: 1; min-width: 150px; max-width: 150px; display: flex; flex-direction: column; gap: 20px;">
+  <div style="flex: 1; min-width: 150px; max-width: 250px; display: flex; flex-direction: column; gap: 20px;">
     
     <!-- 第一个视频 (OPM) -->
     <div>
@@ -21,16 +21,10 @@ title: research
         <source src="{{ '/images/OPM.mp4' | relative_url }}" type="video/mp4">
       </video>
 
-      <p style="font-size: 13px; color: #666; margin-top: 6px;">Soft capsule suspension flow in ordered porous medium.</p>
-    </div>
-
-    <!-- 第二个视频 (DPM) -->
-    <div>
       <video autoplay loop muted playsinline style="width: 100%; border-radius: 8px; border: 1px solid #eee; display: block;">
         <source src="{{ '/images/DPM.mp4' | relative_url }}" type="video/mp4">
       </video>
-
-      <p style="font-size: 13px; color: #666; margin-top: 6px;">Soft capsule suspension flow in disordered porous medium.</p>
+      <p style="font-size: 13px; color: #666; margin-top: 6px;">Soft capsule suspension flow in porous media.</p>
     </div>
 
   </div>
