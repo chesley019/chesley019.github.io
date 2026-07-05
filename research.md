@@ -33,7 +33,7 @@ title: research
 </div>
 
 <div style="text-align: center; margin: 20px 0;">
-  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=DXtKvrAFQsQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="border-radius: 8px;"></iframe>
+  <iframe width="560" height="315" src="https://youtu.be/DXtKvrAFQsQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="border-radius: 8px;"></iframe>
 </div>
 
 
