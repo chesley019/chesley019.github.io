@@ -6,14 +6,17 @@ title: research
 ---
 
 **Collective Motion of Bacteria**<br>
+The collective motion of *Myxococcus xanthus*.
+
+**Biomimetic Capsule Model for Red Blood Cells (RBCs)**<br>
+I developed a suspension of ultra-soft PDMS microcapsules as a model for RBCs. 
 
 
-
-
+**Transport and Rheology of Soft Suspensions in Porous Media**
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; margin: 30px 0; gap: 24px;">
   
   <!-- 左侧：两个视频上下排列的容器 -->
-  <div style="flex: 1; min-width: 150px; max-width: 250px; display: flex; flex-direction: column; gap: 20px;">
+  <div style="flex: 1; min-width: 300px; max-width: 300px; display: flex; flex-direction: column; gap: 20px;">
     
     <!-- 第一个视频 (OPM) -->
     <div>
@@ -31,11 +34,9 @@ title: research
   
 
   <!-- 右侧：一整段文字介绍 -->
-  **Transport and Rheology of Soft Suspensions in Porous Media**<br>
   <div style="flex: 1; min-width: 280px; padding: 10px; color: #333;">
-    <h3 style="margin-top: 0; margin-bottom: 12px;">Transport and Rheology of Soft Suspensions in </h3>
     <p style="font-size: 14px; line-height: 1.6; text-align: justify;">
-      <!-- 这里填写你的一整段介绍文字。左侧展示了 OPM（图1）与 DPM（图2）两种不同算法在相同场景下的运行对相比之下，OPM 在处理高密度数据时表现出更好的流畅度，而 DPM 则在细节还原度上略胜一筹。通过这两个直观的视频演示，可以清晰地看出两者在实际应用中的性能差异与各自的优缺点 -->
+      The capsule suspensions are pumped into planar porous media at constant flow rates.
     </p>
   </div>
 
@@ -46,10 +47,10 @@ title: research
 </div>
 
 **Droplet Microfluidics**<br>
-
+Formation and operation of droplets/bubbles.
 
 **Pressurised Hydrogen jets**<br>
-
+The jetting dynamics of hydrogen released from the highly compressed tank through nozzles with different morphologies.
 
 **Enhanced Heat Transfer**<br>
-
+Design and characterisation of heat exchangers.
