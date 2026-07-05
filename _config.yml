@@ -49,8 +49,8 @@ google_analytics: "G-T5N5JY1E21"                                 # GA-4 measurem
 links:
   - title: About Me
     url: /
-  - title: Projects
-    url: /projects/
+  - title: Research
+    url: /research/
   - title: Publications
     url: /publications/
   - title: Awards
