@@ -22,7 +22,7 @@ title: Publications
 
 **2023**<br>
 
-<img src="/images/SoftMatter.jpeg" align="left" width="120" hspace="50">
+<img src="/images/SoftMatter.jpg" align="left" width="120" hspace="50">
 
 - [Robust fabrication of ultra-soft tunable PDMS microcapsules as a biomimetic model for red blood cells](https://doi.org/10.1039/D3SM00208J)  
 **Qi Chen**, Naval Singh, Kerstin Schirrmann, Qi Zhou, Igor L. Chernyavsky, and Anne Juel.  
