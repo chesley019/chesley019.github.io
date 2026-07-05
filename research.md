@@ -23,13 +23,14 @@ title: research
 
       <p style="font-size: 13px; color: #666; margin-top: 6px;">Soft capsule suspension flow in ordered porous medium.</p>
     </div>
+
     <!-- 第二个视频 (DPM) -->
     <div>
       <video autoplay loop muted playsinline style="width: 100%; border-radius: 8px; border: 1px solid #eee; display: block;">
         <source src="{{ '/images/DPM.mp4' | relative_url }}" type="video/mp4">
       </video>
 
-      <p style="font-size: 13px; color: #666; margin-top: 6px;">Soft capsule suspension flow in ordered porous medium.</p>
+      <p style="font-size: 13px; color: #666; margin-top: 6px;">Soft capsule suspension flow in disordered porous medium.</p>
     </div>
 
   </div>
