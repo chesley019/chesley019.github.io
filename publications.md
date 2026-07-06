@@ -16,7 +16,13 @@ title: Publications
 
 ----
 
-## Journal Paper
+## Publications
+
+**2025**<br>
+- [Microfluidic Model of Haemodynamics in Porous Media](https://research.manchester.ac.uk/files/1574776178/FULL_TEXT.PDF) <br>
+**Qi Chen**<br>
+Supervised by [Prof. Anne Juel](https://research.manchester.ac.uk/en/persons/anne.juel/) and [Dr. Igor L. Chernyavsky](https://math-biophys.info/wiki/start).<br>
+University of Manchetser, UK.<br>
 
 **2023**<br>
 
@@ -64,35 +70,6 @@ Tingting Du, **Qi Chen**, Wenjing Du, and Lin Cheng.<br>
 - [Modeling of underexpanded hydrogen jets through square and rectangular slot nozzles](https://doi.org/10.1016/j.ijhydene.2019.01.079)<br>
 Xuefang Li, **Qi Chen**, Mingjia Chen, Qian He, David M. Christopher, Xu Cheng, Bikram Roy Chowdhury, and Ethan S. Hecht.<br>
 *International Journal of Hydrogen Energy* 44, (2019): 6353-6365.<br>
-
-  <br>
-
----
-
-## Conference Presentations
-
-- Microfluidic Model of Haemodynamics in Porous Media, oral presentation, [Osborne Reynolds Day](https://www.osbornereynolds.org/), Manchester UK, June 2025.<br>
-
-- [Microfluidic model of micro-haemodynamics in porous media](https://meetings.aps.org/Meeting/DFD23/Session/J14.3), oral presentation, APS Division of Fluid Dynamics Annual Meeting, Washington USA, November 2023.<br>
-
-- A microfluidic model of micro-haemorheology in complex porous media, oral presentation, International Congress on Rheology, Athens Greece, August 2023.<br>
-
-- [Microfluidic model of micro-haemodynamics](https://meetings.aps.org/Meeting/DFD22/Session/L05.2), oral presentation, APS Division of Fluid Dynamics Annual Meeting, Indianapolis USA, November 2022.<br>
-
-- Microfluidic model of micro-haemodynamics, oral presentation, IOP workshop: Microrheology and Transport in Complex Biological Media, Edinburgh UK, May 2022.<br>
-
-- Microfluidic model of micro-haemodynamics, poster presentation, Biological Fluids & Flows: A Conference to Celebrate the 80th Birthday of Prof. Tim Pedley, Cambridge UK, March 2022.<br>
-
-- A robust microfluidic device for fabricating deformable microcapsules based on water-oil-water double-emulsion templates, poster presentation, UK Fluids Conference, online, 2021.<br>
-
-  <br>
-
-## PhD Thesis
-
-- [Microfluidic Model of Haemodynamics in Porous Media](https://research.manchester.ac.uk/files/1574776178/FULL_TEXT.PDF) <br>
-**Qi Chen**<br>
-Supervised by [Prof. Anne Juel](https://research.manchester.ac.uk/en/persons/anne.juel/) and [Dr. Igor L. Chernyavsky](https://math-biophys.info/wiki/start).<br>
-University of Manchetser, UK.<br>
 
   <br>
 <br>
