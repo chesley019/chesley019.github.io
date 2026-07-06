@@ -15,7 +15,7 @@ title: Awards
         
         <!-- 第一张图 + 标签 -->
         <div class="pub-carousel-slide">
-            <img src="{{ site.baseurl }}/images/OR_Day_0.jpg" alt="Publication Image 1">
+            <img src="{{ site.baseurl }}/images/OR_Day/OR_Day_0.jpg" alt="Publication Image 1">
             <div class="pub-carousel-text">
                 <p>Manchester, UK (2025)</p>
             </div>
@@ -23,7 +23,7 @@ title: Awards
 
         <!-- 第二张图 + 标签 -->
         <div class="pub-carousel-slide">
-            <img src="{{ site.baseurl }}/images/OR_Day_1.jpg" alt="Publication Image 2">
+            <img src="{{ site.baseurl }}/images/OR_Day/OR_Day_1.jpg" alt="Publication Image 2">
             <div class="pub-carousel-text">
                 <p>Manchester, UK (2025)</p>
             </div>
@@ -31,7 +31,7 @@ title: Awards
 
         <!-- 第三张图 + 标签 -->
         <div class="pub-carousel-slide">
-            <img src="{{ site.baseurl }}/images/OR_Day_2.jpg" alt="Publication Image 1">
+            <img src="{{ site.baseurl }}/images/OR_Day/OR_Day_2.jpg" alt="Publication Image 1">
             <div class="pub-carousel-text">
                 <p>Manchester, UK (2025)</p>
             </div>
@@ -39,12 +39,19 @@ title: Awards
 
         <!-- 第四张图 + 标签 -->
         <div class="pub-carousel-slide">
-            <img src="{{ site.baseurl }}/images/OR_Day_3.jpg" alt="Publication Image 1">
+            <img src="{{ site.baseurl }}/images/OR_Day/OR_Day_3.jpg" alt="Publication Image 1">
             <div class="pub-carousel-text">
                 <p>Manchester, UK (2025)</p>
             </div>
         </div>
 
+        <!-- 第五张图 + 标签 -->
+        <div class="pub-carousel-slide">
+            <img src="{{ site.baseurl }}/images/OR_Day/OR_Day_4.jpg" alt="Publication Image 1">
+            <div class="pub-carousel-text">
+                <p>Manchester, UK (2025)</p>
+            </div>
+        </div>
     </div>
 
     <!-- 左右切换按钮 -->

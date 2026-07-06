@@ -20,7 +20,7 @@ title: Publications
 
 **2023**<br>
 
-<img src="/Publications/images/SoftMatter.jpg" align="left" width="120" hspace="50">
+<img src="/images/Publications/SoftMatter.jpg" align="left" width="120" hspace="50">
 
 - [Robust fabrication of ultra-soft tunable PDMS microcapsules as a biomimetic model for red blood cells](https://doi.org/10.1039/D3SM00208J)  
 **Qi Chen**, Naval Singh, Kerstin Schirrmann, Qi Zhou, Igor L. Chernyavsky, and Anne Juel.  
@@ -32,7 +32,7 @@ Eleanor Doman, Qi Zhou, **Qi Chen**, Naval Singh, Anne Juel, Miguel O. Bernabeu,
 
 **2022**<br>
 
-<img src="/Publications/images/InterfaceFocus.jpg" align="left" width="120" hspace="50">
+<img src="/images/Publications/InterfaceFocus.jpg" align="left" width="120" hspace="50">
 
 - [Red blood cell dynamics in extravascular biological tissues modelled as canonical disordered porous media](https://doi.org/10.1098/rsfs.2022.0037)<br>
 Qi Zhou, Kerstin Schirrmann, Eleanor Doman, **Qi Chen**, Naval Singh, P. Ravi Selvaganapathy, Miguel O. Bernabeu et al. <br>
