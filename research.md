@@ -6,12 +6,11 @@ title: research
 ---
 
 ## Collective Motion of Bacteria
-The collective motion of *Myxococcus xanthus*.
 
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; margin: 30px 0; gap: 24px;">
   
   <!-- 左侧：两个视频上下排列的容器 -->
-  <div style="flex: 1; min-width: 200px; max-width: 200px; display: flex; flex-direction: column; gap: 20px;">
+  <div style="flex: 1; min-width: 150px; max-width: 150px; display: flex; flex-direction: column; gap: 20px;">
     
     <!-- 第一个视频 (Myxo) -->
     <div>
@@ -19,7 +18,7 @@ The collective motion of *Myxococcus xanthus*.
         <source src="{{ '/images/Myxo.mp4' | relative_url }}" type="video/mp4">
       </video>
 
-      <p style="font-size: 13px; color: #666; margin-top: 6px;">Soft capsule suspension flow in porous media.</p>
+      <p style="font-size: 13px; color: #666; margin-top: 6px;"> Droplet deformation in the single layer of *Myxococcus xanthus*.</p>
     </div>
 
   </div>
@@ -28,7 +27,7 @@ The collective motion of *Myxococcus xanthus*.
   <!-- 右侧：一整段文字介绍 -->
   <div style="flex: 1; min-width: 280px; padding: 10px; color: #333;">
     <p style="font-size: 14px; line-height: 1.6; text-align: justify;">
-      The capsule suspensions are pumped into planar porous media at constant flow rates.
+      The collective motion of *Myxococcus xanthus*.
     </p>
   </div>
 
