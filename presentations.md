@@ -103,13 +103,13 @@ title: Presentations
         <div class="pub-carousel-slide">
             <img src="{{ site.baseurl }}/images/APS DFD2022/APS DFD2022.jpg" alt="Publication Image 1">
             <div class="pub-carousel-text">
-                <p>Washington, USA (2023)</p>
+                <p>Indianapolis, USA (2022)</p>
             </div>
         </div>
         <div class="pub-carousel-slide">
             <img src="{{ site.baseurl }}/images/APS DFD2022/APS DFD2022-2.jpg" alt="Publication Image 2">
             <div class="pub-carousel-text">
-                <p>Washington, USA (2023)</p>
+                <p>Indianapolis, USA (2022)</p>
             </div>
         </div>
     </div>
