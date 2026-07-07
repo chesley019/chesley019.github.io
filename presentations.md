@@ -48,6 +48,26 @@ title: Presentations
 
 **2023**<br>
 - [Microfluidic model of micro-haemodynamics in porous media](https://meetings.aps.org/Meeting/DFD23/Session/J14.3), oral presentation, APS Division of Fluid Dynamics Annual Meeting, Washington USA, November 2023.<br>
+
+<div class="pub-carousel-container">
+    <div class="pub-carousel-track" id="pub-track-2" data-index="0">
+        <div class="pub-carousel-slide">
+            <img src="{{ site.baseurl }}/images/APS DFD2023/APS DFD 2023-1.jpg" alt="Publication Image 1">
+            <div class="pub-carousel-text">
+                <p>Washington, USA (2023)</p>
+            </div>
+        </div>
+        <div class="pub-carousel-slide">
+            <img src="{{ site.baseurl }}/images/APS DFD2023/APS DFD 2023-2.jpg" alt="Publication Image 2">
+            <div class="pub-carousel-text">
+                <p>Washington, USA (2023)</p>
+            </div>
+        </div>
+    </div>
+    <button class="pub-carousel-btn pub-prev-btn" onclick="movePubSlide('pub-track-2', -1)">&#10094;</button>
+    <button class="pub-carousel-btn pub-next-btn" onclick="movePubSlide('pub-track-2', 1)">&#10095;</button>
+</div>
+
 - A microfluidic model of micro-haemorheology in complex porous media, oral presentation, International Congress on Rheology, Athens Greece, August 2023.<br>
 
 <div class="pub-carousel-container">
@@ -59,15 +79,15 @@ title: Presentations
             </div>
         </div>
         <div class="pub-carousel-slide">
-            <img src="{{ site.baseurl }}/images/ICR/ICR.jpg" alt="Publication Image 2">
+            <img src="{{ site.baseurl }}/images/ICR/ICR-2.jpg" alt="Publication Image 2">
             <div class="pub-carousel-text">
-                <p>Manchester, UK (2025)</p>
+                <p>Athens, Greece (2023)</p>
             </div>
         </div>
         <div class="pub-carousel-slide">
-            <img src="{{ site.baseurl }}/images/ICR/ICR.jpg" alt="Publication Image 3">
+            <img src="{{ site.baseurl }}/images/ICR/ICR-3.jpg" alt="Publication Image 3">
             <div class="pub-carousel-text">
-                <p>Manchester, UK (2025)</p>
+                <p>Athens, Greece (2023)</p>
             </div>
         </div>
     </div>
@@ -77,7 +97,28 @@ title: Presentations
 
 **2022**<br>
 - [Microfluidic model of micro-haemodynamics](https://meetings.aps.org/Meeting/DFD22/Session/L05.2), oral presentation, APS Division of Fluid Dynamics Annual Meeting, Indianapolis USA, November 2022.<br>
+
+<div class="pub-carousel-container">
+    <div class="pub-carousel-track" id="pub-track-2" data-index="0">
+        <div class="pub-carousel-slide">
+            <img src="{{ site.baseurl }}/images/APS DFD2022/APS DFD2022.jpg" alt="Publication Image 1">
+            <div class="pub-carousel-text">
+                <p>Washington, USA (2023)</p>
+            </div>
+        </div>
+        <div class="pub-carousel-slide">
+            <img src="{{ site.baseurl }}/images/APS DFD2022/APS DFD2022-2.jpg" alt="Publication Image 2">
+            <div class="pub-carousel-text">
+                <p>Washington, USA (2023)</p>
+            </div>
+        </div>
+    </div>
+    <button class="pub-carousel-btn pub-prev-btn" onclick="movePubSlide('pub-track-2', -1)">&#10094;</button>
+    <button class="pub-carousel-btn pub-next-btn" onclick="movePubSlide('pub-track-2', 1)">&#10095;</button>
+</div>
+
 - Microfluidic model of micro-haemodynamics, oral presentation, IOP workshop: Microrheology and Transport in Complex Biological Media, Edinburgh UK, May 2022.<br>
+
 - [Microfluidic model of micro-haemodynamics](https://sites.google.com/view/tjp80/home), poster presentation, Biological Fluids & Flows: A Conference to Celebrate the 80th Birthday of Prof. Tim Pedley, Cambridge UK, March 2022.<br>
 
 <div class="pub-carousel-container">
