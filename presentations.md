@@ -31,7 +31,7 @@ title: Presentations
 
         <!-- 第三张图 + 标签 -->
         <div class="pub-carousel-slide">
-            <img src="{{ site.baseurl }}/images/OR_Day/OR_Day_2.jpg" alt="Publication Image 1">
+            <img src="{{ site.baseurl }}/images/OR_Day/OR_Day_2.jpg" alt="Publication Image 3">
             <div class="pub-carousel-text">
                 <p>Manchester, UK (2025)</p>
             </div>
@@ -39,7 +39,7 @@ title: Presentations
 
         <!-- 第四张图 + 标签 -->
         <div class="pub-carousel-slide">
-            <img src="{{ site.baseurl }}/images/OR_Day/OR_Day_3.jpg" alt="Publication Image 1">
+            <img src="{{ site.baseurl }}/images/OR_Day/OR_Day_3.jpg" alt="Publication Image 4">
             <div class="pub-carousel-text">
                 <p>Manchester, UK (2025)</p>
             </div>
@@ -47,7 +47,7 @@ title: Presentations
 
         <!-- 第五张图 + 标签 -->
         <div class="pub-carousel-slide">
-            <img src="{{ site.baseurl }}/images/OR_Day/OR_Day_4.jpg" alt="Publication Image 1">
+            <img src="{{ site.baseurl }}/images/OR_Day/OR_Day_4.jpg" alt="Publication Image 5">
             <div class="pub-carousel-text">
                 <p>Manchester, UK (2025)</p>
             </div>
@@ -179,7 +179,7 @@ title: Presentations
         <div class="pub-carousel-slide">
             <img src="{{ site.baseurl }}/images/ICR/ICR.jpg" alt="Publication Image 1">
             <div class="pub-carousel-text">
-                <p>Manchester, UK (2025)</p>
+                <p>Athens, Greece (2023)</p>
             </div>
         </div>
 
@@ -193,28 +193,11 @@ title: Presentations
 
         <!-- 第三张图 + 标签 -->
         <div class="pub-carousel-slide">
-            <img src="{{ site.baseurl }}/images/ICR/ICR.jpg" alt="Publication Image 1">
+            <img src="{{ site.baseurl }}/images/ICR/ICR.jpg" alt="Publication Image 3">
             <div class="pub-carousel-text">
                 <p>Manchester, UK (2025)</p>
             </div>
         </div>
-
-        <!-- 第四张图 + 标签 -->
-        <div class="pub-carousel-slide">
-            <img src="{{ site.baseurl }}/images/ICR/ICR.jpg" alt="Publication Image 1">
-            <div class="pub-carousel-text">
-                <p>Manchester, UK (2025)</p>
-            </div>
-        </div>
-
-        <!-- 第五张图 + 标签 -->
-        <div class="pub-carousel-slide">
-            <img src="{{ site.baseurl }}/images/ICR/ICR.jpg" alt="Publication Image 1">
-            <div class="pub-carousel-text">
-                <p>Manchester, UK (2025)</p>
-            </div>
-        </div>
-    </div>
 
     <!-- 左右切换按钮 -->
     <button class="pub-carousel-btn pub-prev-btn" onclick="movePubSlide(-1)">&#10094;</button>
@@ -340,12 +323,12 @@ title: Presentations
     <div class="pub-carousel-track" id="pub-track">
         
         <!-- 第一张图 + 标签 -->
-        <div class="pub-carousel-slide">
+        <!-- <div class="pub-carousel-slide">
             <img src="{{ site.baseurl }}/images/T80/TP80.jpg" alt="Publication Image 1">
             <div class="pub-carousel-text">
                 <p>Cambridge, UK (2022)</p>
             </div>
-        </div>
+        </div> -->
 
         <!-- 第二张图 + 标签 -->
         <div class="pub-carousel-slide">
@@ -357,7 +340,7 @@ title: Presentations
 
         <!-- 第三张图 + 标签 -->
         <div class="pub-carousel-slide">
-            <img src="{{ site.baseurl }}/images/T80/TP80_3.jpg" alt="Publication Image 1">
+            <img src="{{ site.baseurl }}/images/T80/TP80_3.jpg" alt="Publication Image 3">
             <div class="pub-carousel-text">
                 <p>Cambridge, UK (2022)</p>
             </div>
