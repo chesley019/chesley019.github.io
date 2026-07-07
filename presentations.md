@@ -12,31 +12,31 @@ title: Presentations
 <div class="pub-carousel-container">
     <div class="pub-carousel-track" id="pub-track-1" data-index="0">
         <div class="pub-carousel-slide">
-            <img src="{{ site.baseurl }}/images/OR_Day/OR_Day_0.jpg" alt="Publication Image 1">
+            <img src="{{ site.baseurl }}/images/OR_Day/OR_Day_0.jpg" alt="OR Day Image 1">
             <div class="pub-carousel-text">
                 <p>Manchester, UK (2025)</p>
             </div>
         </div>
         <div class="pub-carousel-slide">
-            <img src="{{ site.baseurl }}/images/OR_Day/OR_Day_1.jpg" alt="Publication Image 2">
+            <img src="{{ site.baseurl }}/images/OR_Day/OR_Day_1.jpg" alt="OR Day Image 2">
             <div class="pub-carousel-text">
                 <p>Manchester, UK (2025)</p>
             </div>
         </div>
         <div class="pub-carousel-slide">
-            <img src="{{ site.baseurl }}/images/OR_Day/OR_Day_2.jpg" alt="Publication Image 3">
+            <img src="{{ site.baseurl }}/images/OR_Day/OR_Day_2.jpg" alt="OR Day Image 3">
             <div class="pub-carousel-text">
                 <p>Manchester, UK (2025)</p>
             </div>
         </div>
         <div class="pub-carousel-slide">
-            <img src="{{ site.baseurl }}/images/OR_Day/OR_Day_3.jpg" alt="Publication Image 4">
+            <img src="{{ site.baseurl }}/images/OR_Day/OR_Day_3.jpg" alt="OR Day Image 4">
             <div class="pub-carousel-text">
                 <p>Manchester, UK (2025)</p>
             </div>
         </div>
         <div class="pub-carousel-slide">
-            <img src="{{ site.baseurl }}/images/OR_Day/OR_Day_4.jpg" alt="Publication Image 5">
+            <img src="{{ site.baseurl }}/images/OR_Day/OR_Day_4.jpg" alt="OR Day Image 5">
             <div class="pub-carousel-text">
                 <p>Manchester, UK (2025)</p>
             </div>
@@ -52,13 +52,13 @@ title: Presentations
 <div class="pub-carousel-container">
     <div class="pub-carousel-track" id="pub-track-2" data-index="0">
         <div class="pub-carousel-slide">
-            <img src="{{ site.baseurl }}/images/APS DFD2023/APS DFD 2023-1.jpg" alt="Publication Image 1">
+            <img src="{{ site.baseurl }}/images/APS DFD2023/APS DFD 2023-1.jpg" alt="APS DFD 2023 Image 1">
             <div class="pub-carousel-text">
                 <p>Washington, USA (2023)</p>
             </div>
         </div>
         <div class="pub-carousel-slide">
-            <img src="{{ site.baseurl }}/images/APS DFD2023/APS DFD 2023-2.jpg" alt="Publication Image 2">
+            <img src="{{ site.baseurl }}/images/APS DFD2023/APS DFD 2023-2.jpg" alt="APS DFD 2023 Image 2">
             <div class="pub-carousel-text">
                 <p>Washington, USA (2023)</p>
             </div>
@@ -71,50 +71,50 @@ title: Presentations
 - A microfluidic model of micro-haemorheology in complex porous media, oral presentation, International Congress on Rheology, Athens Greece, August 2023.<br>
 
 <div class="pub-carousel-container">
-    <div class="pub-carousel-track" id="pub-track-2" data-index="0">
+    <div class="pub-carousel-track" id="pub-track-3" data-index="0">
         <div class="pub-carousel-slide">
-            <img src="{{ site.baseurl }}/images/ICR/ICR.jpg" alt="Publication Image 1">
+            <img src="{{ site.baseurl }}/images/ICR/ICR.jpg" alt="ICR Image 1">
             <div class="pub-carousel-text">
                 <p>Athens, Greece (2023)</p>
             </div>
         </div>
         <div class="pub-carousel-slide">
-            <img src="{{ site.baseurl }}/images/ICR/ICR-2.jpg" alt="Publication Image 2">
+            <img src="{{ site.baseurl }}/images/ICR/ICR-2.jpg" alt="ICR Image 2">
             <div class="pub-carousel-text">
                 <p>Athens, Greece (2023)</p>
             </div>
         </div>
         <div class="pub-carousel-slide">
-            <img src="{{ site.baseurl }}/images/ICR/ICR-3.jpg" alt="Publication Image 3">
+            <img src="{{ site.baseurl }}/images/ICR/ICR-3.jpg" alt="ICR Image 3">
             <div class="pub-carousel-text">
                 <p>Athens, Greece (2023)</p>
             </div>
         </div>
     </div>
-    <button class="pub-carousel-btn pub-prev-btn" onclick="movePubSlide('pub-track-2', -1)">&#10094;</button>
-    <button class="pub-carousel-btn pub-next-btn" onclick="movePubSlide('pub-track-2', 1)">&#10095;</button>
+    <button class="pub-carousel-btn pub-prev-btn" onclick="movePubSlide('pub-track-3', -1)">&#10094;</button>
+    <button class="pub-carousel-btn pub-next-btn" onclick="movePubSlide('pub-track-3', 1)">&#10095;</button>
 </div>
 
 **2022**<br>
 - [Microfluidic model of micro-haemodynamics](https://meetings.aps.org/Meeting/DFD22/Session/L05.2), oral presentation, APS Division of Fluid Dynamics Annual Meeting, Indianapolis USA, November 2022.<br>
 
 <div class="pub-carousel-container">
-    <div class="pub-carousel-track" id="pub-track-2" data-index="0">
+    <div class="pub-carousel-track" id="pub-track-4" data-index="0">
         <div class="pub-carousel-slide">
-            <img src="{{ site.baseurl }}/images/APS DFD2022/APS DFD2022.jpg" alt="Publication Image 1">
+            <img src="{{ site.baseurl }}/images/APS DFD2022/APS DFD2022.jpg" alt="APS DFD 2022 Image 1">
             <div class="pub-carousel-text">
                 <p>Indianapolis, USA (2022)</p>
             </div>
         </div>
         <div class="pub-carousel-slide">
-            <img src="{{ site.baseurl }}/images/APS DFD2022/APS DFD2022-2.jpg" alt="Publication Image 2">
+            <img src="{{ site.baseurl }}/images/APS DFD2022/APS DFD2022-2.jpg" alt="APS DFD 2022 Image 2">
             <div class="pub-carousel-text">
                 <p>Indianapolis, USA (2022)</p>
             </div>
         </div>
     </div>
-    <button class="pub-carousel-btn pub-prev-btn" onclick="movePubSlide('pub-track-2', -1)">&#10094;</button>
-    <button class="pub-carousel-btn pub-next-btn" onclick="movePubSlide('pub-track-2', 1)">&#10095;</button>
+    <button class="pub-carousel-btn pub-prev-btn" onclick="movePubSlide('pub-track-4', -1)">&#10094;</button>
+    <button class="pub-carousel-btn pub-next-btn" onclick="movePubSlide('pub-track-4', 1)">&#10095;</button>
 </div>
 
 - Microfluidic model of micro-haemodynamics, oral presentation, IOP workshop: Microrheology and Transport in Complex Biological Media, Edinburgh UK, May 2022.<br>
@@ -122,28 +122,28 @@ title: Presentations
 - [Microfluidic model of micro-haemodynamics](https://sites.google.com/view/tjp80/home), poster presentation, Biological Fluids & Flows: A Conference to Celebrate the 80th Birthday of Prof. Tim Pedley, Cambridge UK, March 2022.<br>
 
 <div class="pub-carousel-container">
-    <div class="pub-carousel-track" id="pub-track-3" data-index="0">
+    <div class="pub-carousel-track" id="pub-track-5" data-index="0">
         <div class="pub-carousel-slide">
-            <img src="{{ site.baseurl }}/images/T80/TP80.jpg" alt="Publication Image 1">
+            <img src="{{ site.baseurl }}/images/T80/TP80.jpg" alt="TP80 Image 1">
             <div class="pub-carousel-text">
                 <p>Cambridge, UK (2022)</p>
             </div>
         </div>
         <div class="pub-carousel-slide">
-            <img src="{{ site.baseurl }}/images/T80/TP80_2.jpg" alt="Publication Image 2">
+            <img src="{{ site.baseurl }}/images/T80/TP80_2.jpg" alt="TP80 Image 2">
             <div class="pub-carousel-text">
                 <p>Cambridge, UK (2022)</p>
             </div>
         </div>
         <div class="pub-carousel-slide">
-            <img src="{{ site.baseurl }}/images/T80/TP80_3.jpg" alt="Publication Image 3">
+            <img src="{{ site.baseurl }}/images/T80/TP80_3.jpg" alt="TP80 Image 3">
             <div class="pub-carousel-text">
                 <p>Cambridge, UK (2022)</p>
             </div>
         </div>
     </div>
-    <button class="pub-carousel-btn pub-prev-btn" onclick="movePubSlide('pub-track-3', -1)">&#10094;</button>
-    <button class="pub-carousel-btn pub-next-btn" onclick="movePubSlide('pub-track-3', 1)">&#10095;</button>
+    <button class="pub-carousel-btn pub-prev-btn" onclick="movePubSlide('pub-track-5', -1)">&#10094;</button>
+    <button class="pub-carousel-btn pub-next-btn" onclick="movePubSlide('pub-track-5', 1)">&#10095;</button>
 </div>
 
 **2021**<br>
@@ -216,7 +216,7 @@ title: Presentations
         border-radius: 50%;
         transition: all 0.3s ease;
         z-index: 10;
-        line-height: 1; /* 修复部分主题下按钮内箭头不居中的小 bug */
+        line-height: 1;
     }
 
     .pub-carousel-btn:hover {
@@ -235,7 +235,6 @@ title: Presentations
         if (!track) return;
         
         const totalSlides = track.children.length;
-        // 从 HTML 的 data-index 属性读取和保存当前图集的当前索引
         let currentIndex = parseInt(track.getAttribute('data-index')) || 0;
         
         currentIndex = currentIndex + direction;
@@ -246,9 +245,7 @@ title: Presentations
             currentIndex = 0;
         }
 
-        // 存回对应的 data-index 中
         track.setAttribute('data-index', currentIndex);
-        // 执行滑动动画
         track.style.transform = `translateX(-${currentIndex * 100}%)`;
     }
 </script>
