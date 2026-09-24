@@ -15,6 +15,9 @@ I earned my Ph.D. from the School of Physics and Astronomy at the University of 
 I am always open to academic discussions and potential collaborations. Please feel free to reach out to me at **qi_chen@ntu.edu.sg**.
 
 ---
+<div style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/DXtKvrAFQsQ?si=fZEr4HyKx5l5Wghx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="border-radius: 8px;"></iframe>
+</div>
 
 ## Research Interests
 
